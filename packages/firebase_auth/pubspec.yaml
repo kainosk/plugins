@@ -17,7 +17,7 @@ dependencies:
   firebase_core: ^0.4.0
 
   flutter:
-    sdk: flutter
+    sdk: flutter_web
 
 dev_dependencies:
   google_sign_in: ^3.0.4
